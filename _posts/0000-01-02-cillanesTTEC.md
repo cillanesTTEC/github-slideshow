@@ -8,6 +8,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Witty Text **Here!**
 
 Use the left arrow to go back!
